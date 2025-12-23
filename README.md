@@ -38,53 +38,6 @@ robot_simulator_pkg/
 └── README.md
 ```
 
-## Dependencies
-
-- ROS 2 (Humble or later)
-- C++ 14 or later
-- SDL2 (for graphics rendering)
-- CMake 3.14 or later
-
-## Installation
-
-1. **Clone the repository** into your ROS 2 workspace:
-   ```bash
-   cd ~/ros2_ws/src
-   git clone <repository-url> robot_simulator_pkg
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   rosdep install --from-paths src --ignore-src -r -y
-   ```
-
-3. **Build the package**:
-   ```bash
-   cd ~/ros2_ws
-   colcon build --packages-select robot_simulator_pkg
-   ```
-
-4. **Source the workspace**:
-   ```bash
-   source install/local_setup.bash
-   ```
-
-## Usage
-
-### Running the Robot Simulator
-
-Launch the robot simulator:
-```bash
-ros2 run robot_simulator_pkg robot_simulator
-```
-
-### With RViz Visualization
-
-To visualize the robot in RViz:
-```bash
-ros2 launch robot_simulator_pkg robot_simulator.launch.py
-```
-
 ## Components
 
 ### Robot
@@ -105,25 +58,4 @@ ros2 launch robot_simulator_pkg robot_simulator.launch.py
 ### Ultrasonic Sensor
 - Simulates multiple ultrasonic sensors
 - Ray-casting based distance measurement
-- Real-time obstacle detection
-
-## Building from Source
-
-```bash
-mkdir -p build
-cd build
-cmake ..
-make
-```
-
-## License
-
-[Add your license here]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Support
-
-For issues or questions, please open an issue on the GitHub repository.
+- Real-time obstacle detection 

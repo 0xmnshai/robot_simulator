@@ -1,0 +1,10 @@
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/uninstall.dir
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/robot_simulator_pkg_uninstall.dir
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/robot_simulator.dir
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/test.dir
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/edit_cache.dir
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/rebuild_cache.dir
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/list_install_components.dir
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/install.dir
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/install/local.dir
+/Users/lazycodebaker/Documents/Dev/C++/robot_simulator/robot_simulator_pkg/build/CMakeFiles/install/strip.dir

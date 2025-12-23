@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/build",
+                "/opt/homebrew/include",
+                "/opt/homebrew/include/SDL2",
+                "/Users/lazycodebaker/miniconda3/envs/ros_env/include/rclcpp",
+                "/Users/lazycodebaker/miniconda3/envs/ros_env/include/geometry_msgs/",
+                "/Users/lazycodebaker/miniconda3/envs/ros_env/include/nav_msgs/",
+                "/Users/lazycodebaker/miniconda3/envs/ros_env/include/std_msgs/",
+                "/Users/lazycodebaker/miniconda3/envs/ros_env/include/tf2_ros/",
+                "/Users/lazycodebaker/miniconda3/envs/ros_env/include/rosidl_runtime_cpp",
+                "/Users/lazycodebaker/miniconda3/envs/ros_env/include/sensor_msgs/",
+                "/Users/lazycodebaker/miniconda3/envs/ros_env/include/SDL2",
+                "/opt/homebrew/Cellar/sdl2_image/2.8.8/include/SDL2"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
